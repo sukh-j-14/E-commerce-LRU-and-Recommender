@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 2999,
+    "avgRating": 4.6,
+    "numRatings": 12432,
+    "image": "headphones.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 4999,
+    "avgRating": 4.4,
+    "numRatings": 8450,
+    "image": "watch.jpg"
+  }
+  ,
+{
+  "id": 3,
+  "name": "Bluetooth Speaker",
+  "price": 1999,
+  "avgRating": 4.5,
+  "numRatings": 9321,
+  "image": "speaker.jpg"
+},
+{
+  "id": 4,
+  "name": "Gaming Mouse",
+  "price": 1499,
+  "avgRating": 4.3,
+  "numRatings": 15890,
+  "image": "mouse.jpg"
+},
+{
+  "id": 5,
+  "name": "Mechanical Keyboard",
+  "price": 3999,
+  "avgRating": 4.7,
+  "numRatings": 22150,
+  "image": "keyboard.jpg"
+},
+{
+  "id": 6,
+  "name": "Noise Cancelling Earbuds",
+  "price": 3499,
+  "avgRating": 4.4,
+  "numRatings": 10450,
+  "image": "earbuds.jpg"
+},
+{
+  "id": 7,
+  "name": "Laptop Stand",
+  "price": 999,
+  "avgRating": 4.2,
+  "numRatings": 6780,
+  "image": "stand.jpg"
+}
+]

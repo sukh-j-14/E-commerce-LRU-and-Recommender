@@ -1,0 +1,46 @@
+# -------------------------
+# Node / JavaScript
+# -------------------------
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -------------------------
+# Build outputs
+# -------------------------
+frontend/dist/
+backend/dist/
+
+# -------------------------
+# Environment variables
+# -------------------------
+.env
+.env.local
+.env.production
+
+# -------------------------
+# OS / Editor junk
+# -------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# -------------------------
+# C++ compiled binaries
+# -------------------------
+backend/cpp/recommend
+backend/cpp/*.out
+backend/cpp/*.exe
+
+# -------------------------
+# Logs
+# -------------------------
+logs/
+*.log
+
+# -------------------------
+# Cache
+# -------------------------
+.cache/
