@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000";
+const BASE_URL = "https://e-commerce-lru-and-recommender.onrender.com";
 
 export async function fetchProducts() {
   const res = await fetch(`${BASE_URL}/products`);
